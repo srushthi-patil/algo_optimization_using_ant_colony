@@ -1,7 +1,3 @@
-Here’s a **clean, short, professional Git README** you can directly use:
-
----
-
 # Ant Colony Optimization for Shortest Path (Robot Navigation)
 
 ## 📌 Overview
